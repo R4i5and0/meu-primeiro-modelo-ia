@@ -1,16 +1,17 @@
-# 🧠 Explorando IA Generativa com Python e Stable Diffusion XL
+# 😊 Explorando IA Generativa com Python e Stable Diffusion XL
 
-Estou migrando minhas prática para o ecossistema de **IA generativa com Python**.  
-Este repositório documenta meu primeiro experimento prático com **modelos de difusão**, usando o **Stable Diffusion XL** via biblioteca `diffusers` do Hugging Face, executado no **Google Colab**.
+Este projeto faz parte dos meus primeiros passos com **Python, Jupyter Notebook e modelos de IA generativa**.  
+Estou explorando como gerar imagens usando a biblioteca `diffusers` da Hugging Face e rodando tudo no **Google Colab**.
+
+O código aqui foi adaptado com ajuda da comunidade e está funcionando (mesmo com os desafios de memória, tokens e configuração!). 💪
 
 ---
 
-### ✨ O que eu fiz:
-
-Gerei uma imagem com o prompt:
+### ✨ Objetivo do projeto:
+Gerar uma imagem com o prompt:  
 > *"Astronaut in a jungle, cold color palette, muted colors, detailed, 8k"*
 
-Usei o modelo **Stable Diffusion XL**, que é mais leve e funciona bem no Colab grátis.
+Usando modelos de IA como **Stable Diffusion XL**.
 
 ---
 
