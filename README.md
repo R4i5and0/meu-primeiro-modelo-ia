@@ -16,7 +16,6 @@ Usando modelos de IA como **Stable Diffusion XL**.
 ---
 
 ### 🛠️ Tecnologias usadas:
-
 - Python
 - Google Colab
 - Hugging Face (`diffusers`, `transformers`)
