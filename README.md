@@ -25,7 +25,6 @@ Usando modelos de IA como **Stable Diffusion XL**.
 
 ### 🖼️ Resultado:
 
-Aqui está a imagem que eu gerei e salvei:
 
 ![Imagem gerada com IA](sd-xl.png)
 
